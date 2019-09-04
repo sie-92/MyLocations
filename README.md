@@ -30,3 +30,7 @@ npm run watch
 
 # serve php application
 php artisan serve
+
+#user to log with : 
+email : test@test.com 
+password : test

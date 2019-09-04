@@ -34,3 +34,6 @@ php artisan serve
 #user to log with : 
 email : test@test.com 
 password : test
+
+#use instructions
+to add a place click on the map at the desired place 
